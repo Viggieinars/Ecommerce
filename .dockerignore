@@ -1,0 +1,9 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/node_modules
+**/.env
+.env.example
+README.md
+
